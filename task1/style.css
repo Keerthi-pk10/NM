@@ -1,0 +1,28 @@
+
+  .page{
+    background-color: lightblue;
+    margin:10 10% 10 10%;
+    
+    
+   }
+   .resume{text-align: center
+    }
+
+
+.division{
+    display: flex;
+    justify-content: space-between;
+    width:50%;
+    
+}
+table,th,td{
+    border:2px solid;
+    border-collapse: collapse;
+    
+}
+h2 {
+    color:brown;
+    border-bottom: 2px solid ;
+    width:max-content;
+    padding-bottom: 10px;
+}
